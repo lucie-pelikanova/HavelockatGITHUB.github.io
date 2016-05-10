@@ -248,7 +248,6 @@ nav {
       color: $blue;
     }
   }
-}
 
 
 #main.container {
@@ -268,6 +267,7 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+  margin: 0px 220px 0px 10px;
 }
 
 .post {
