@@ -21,7 +21,7 @@ Data užitá k projektu.
 
 ### Terence McKenna - Nobody is smarter than you are
 
-  * 
+  * [https://www.youtube.com/watch?v=Yxfn5PFWYTk](https://www.youtube.com/watch?v=Yxfn5PFWYTk)
   * kinetická typografie
   * video o důležitosti subjektivní informovanosti a vlastního názoru nezávislého na kulturních paradigmatech
   * standartní licence youtube
