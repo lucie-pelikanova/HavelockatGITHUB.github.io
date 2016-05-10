@@ -148,7 +148,7 @@ img {
 // .masthead
 //
 .McKenna {
-	margin: 20px 150px 20px 150px;
+	margin: 20px 200px 20px 150px;
 }
 
 .wrapper-masthead {
@@ -227,6 +227,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: 'Garamond', Helvetica, Arial, sans-serif;
   font-size: 25px;
+  padding: -8px 0px 0px 0px;
 
   @include mobile {
     float: none;
@@ -261,7 +262,7 @@ nav {
 .posts > .post {
   	padding-bottom: 2em;
   	border-bottom: 1px dashed #fff;
-  	margin: 0px 60px 0px 0px;
+  	margin: 0px 100px 0px 0px;
 }
 
 .posts > .post:last-child {
