@@ -155,9 +155,11 @@ img {
 
 .masthead {
   padding: 20px;
-  border: 2px solid #000;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
   background-color:#d0d0d0;
   color:#000;
+  width: 900px;
 
   @include mobile {
     text-align: center;
