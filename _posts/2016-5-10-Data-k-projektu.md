@@ -14,7 +14,7 @@ Data užitá k projektu.
 
 ### Terence McKenna - Television is a Drug
 
-  * [https://www.youtube.com/watch?v=b283Dc0IZO4] (https://www.youtube.com/watch?v=b283Dc0IZO4)
+  * [https://www.youtube.com/watch?v=b283Dc0IZO4](https://www.youtube.com/watch?v=b283Dc0IZO4)
   * kinetická typografie
   * rozebírá problematiku rozdílu mezi čtením a sledováním obsahu, tiskem formované kultury a mediálního obsahu 
   * standartní licence youtube
