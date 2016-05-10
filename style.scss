@@ -26,7 +26,6 @@ body {
 .container {
   margin: 0 auto;
   max-width: 900px;
-  padding: 0 10px;
   width: 100%;
 }
 
@@ -150,8 +149,9 @@ img {
 // .masthead
 //
 .McKenna {
-	padding-left: 80px;
-	padding-right: 80px;
+	margin: 20px 100px 20px 100px;
+	font-family: 'Garamond', Helvetica, Arial, sans-serif;
+	font-size: 2em;
 }
 
 
@@ -160,7 +160,6 @@ img {
 
 .masthead {
   padding: 20px;
-  margin-right: 20px;
   border-left: 2px solid #000;
   border-right: 2px solid #000;
   background-color:#d0d0d0;
