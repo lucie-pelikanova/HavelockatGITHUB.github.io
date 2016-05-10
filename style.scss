@@ -26,7 +26,6 @@ body {
 .container {
   margin: 0 auto;
   max-width: 900px;
-  border: 2px solid #000;
   padding: 0 10px;
   width: 100%;
 }
@@ -156,8 +155,8 @@ img {
 
 .masthead {
   padding: 0;
-  border: 5px solid #000;
-  background-color:#bababa;
+  border: 2px solid #000;
+  background-color:#d0d0d0;
   color:#000;
 
   @include mobile {
@@ -239,13 +238,16 @@ nav {
   }
 }
 
-//
-// .main
-//
+
+.main {
+	border: 2px solid #000;
+	background-color: #d0d0d0;
+}
+
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  	padding-bottom: 2em;
+  	border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
